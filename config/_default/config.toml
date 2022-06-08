@@ -49,3 +49,10 @@ suffixes = [""]
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
+
+######################### site variables ##############################
+#### Override andromeda-light's default config.toml ####
+# customize your color and font from here.
+
+[params.variables]
+primary_color = "#FF0000"

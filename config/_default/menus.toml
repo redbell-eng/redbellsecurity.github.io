@@ -36,6 +36,11 @@ name = "Contact"
 url = "contact/"
 weight = 5
 
+[[main]]
+name = "Example"
+url = "example/"
+weight = 5
+
 
 # footer menu
 [[footer]]

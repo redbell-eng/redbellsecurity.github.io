@@ -15,14 +15,14 @@ who_we_are:
 # what_we_do
 what_we_do:
   enable: true
-  subtitle: "Our Works"
+  subtitle: "Assessment Services"
   title: "What We Do"
   block:
-  - title: "Automate Business Processes"
-    content: "Billions of dollars every year is wasted on repetitive tasks that could be easily automated. How do you think that impacts your own bottom line?"
+  - title: "Web Penetration Tests"
+    content: "Our web application penetration tests will provide useful insights into the security posture of your organizations web applications. By following a pen-test as a service model we are able to provide tests on demand. Following the simple process of scoping your application and onboarding it onto our platform, a member of your team can request a test, and we will deliver the results within 3 - 5 business days. Because of this quick turn around, your team can easily fit penetration testing into your agile sprints and other business processes."
 
-  - title: "Implement Best-Practices Solutions"
-    content: "Tech is ever-changing, and we at Red Bell strive to stay at the cutting edge. We implement tools and technologies according to industry best-practices that deliver efficiency, resiliency, and reliability into your business."
+  - title: "Cloud Security Review"
+    content: "Over the last decade I.T. infrastructure has rapidly shifted from on premises to cloud service providers. As the complexity of these cloud environments grows, the security risks facing the underlying organization expands proportionately. Our security experts can assist your organization in understanding how its cloud infrastructure fits within the modern security landscape. We produce actionable items so your cloud engineers and architects have a clear pathway to hardening your organizations infrastructure." 
     
   - title: "Ensure Client Success"
     content: "Your investment in us is important, and we strive to ensure it's well-placed. We ensure a solution it not only delivered, it's given the proper training and attention to fully succeed.."
