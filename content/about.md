@@ -24,11 +24,11 @@ what_we_do:
   - title: "Cloud Security Review"
     content: "Over the last decade I.T. infrastructure has rapidly shifted from on premises to cloud service providers. As the complexity of these cloud environments grows, the security risks facing the underlying organization expands proportionately. Our security experts can assist your organization in understanding how its cloud infrastructure fits within the modern security landscape. We produce actionable items so your cloud engineers and architects have a clear pathway to hardening your organizations infrastructure." 
     
-  - title: "Ensure Client Success"
-    content: "Your investment in us is important, and we strive to ensure it's well-placed. We ensure a solution it not only delivered, it's given the proper training and attention to fully succeed.."
+  - title: "OSINT Gathering"
+    content: "OSINT or open source intelligence, is the process of collecting information using publicly available sources. OSINT is a vital part of the modern hackers information gathering process. By using advanced OSINT gathering techniques, hackers may be able to find publicly available information which opens up attack vectors against your organization. Our team is capable of utilyzing the same OSINT gathering techniques which malicious hackers use. In doing so we can provide your organization with relavent insights into what information regarding your organization exists on the web, and how bad actors may be able to utilize that information to perform an attack."
     
-  - title: "TBD"
-    content: "TBD"
+  - title: "Social Engineering Penetration Tests"
+    content: "Social engineering is a process based on human interaction where psychological manipulation is used to trick individuals into making security mistakes. The attacker may use email (phishing), voice (vishing), text, or even a face-to-face interaction in order to get an individual to disclose sensitive information or take a compromising action. Social engineering is a rapidly evolving and widely used attack vector which can be incredibly hard for an organization to address due to the human element of the attack. Red Bell Security's experts are capable of simulating a social engineering campaign on your organization so business leaders can understand how their organizations defenses stack up against this complex attack. We can also advise business leaders on how to develop a social engineering awareness program in order to continually mitigate this persistent threat which can be targeted against all levels of employees within the organization."
 
 # our_mission
 our_mission:
