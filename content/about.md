@@ -30,6 +30,8 @@ what_we_do:
   - title: "Social Engineering Penetration Tests"
     content: "Social engineering is a process based on human interaction where psychological manipulation is used to trick individuals into making security mistakes. The attacker may use email (phishing), voice (vishing), text, or even a face-to-face interaction in order to get an individual to disclose sensitive information or take a compromising action. Social engineering is a rapidly evolving and widely used attack vector which can be incredibly hard for an organization to address due to the human element of the attack. Red Bell Security's experts are capable of simulating a social engineering campaign on your organization so business leaders can understand how their organizations defenses stack up against this complex attack. We can also advise business leaders on how to develop a social engineering awareness program in order to continually mitigate this persistent threat which can be targeted against all levels of employees within the organization."
 
+
+
 # our_mission
 our_mission:
   enable: true

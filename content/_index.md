@@ -27,19 +27,19 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Collaborative Development"
-  title: "Maximize Your Technology Potential"
-  description: "We work with you at every step of the way, actively listening to your needs and how we can best serve them with different technologies."
+  subtitle: "What we do"
+  title: "Our services"
+  description: "As our digital world grows in complexity, so do the threats facing us. Staying ahead of bad actors requires an intimate understanding of the tactics and techniques these individuals and groups use in order to plan and execute attacks against your information systems. Red Bell Security is an information security consulting firm which can assist your organization in coming to understand the threats which face it, and evolving your security program to defend against those threats. "
   features_blocks:
   - icon: "las la-lock"
-    title: "Security First"
-    content: "Security is paramount in what we do. You can rest assured that anything we build will have security right at the forefront."
+    title: "Web Security Assessments"
+    content: "Our web application security assessment will provide useful insights into the security posture of your organizations web applications."
   - icon: "las la-magnet"
-    title: "Best Practices Approach"
-    content: "We don't create mystic black-box operations that only we understand-- we build tools and supporting documentation that are clear, concise, and demystified."
+    title: "Cloud Security Review"
+    content: "Understanding the security posture of your cloud infrastructure is fundamental to protecting the integrity of your organizations data and safety of your users."
   - icon: "las la-tachometer-alt"
-    title: "Efficient and Effective"
-    content: "Your time is valuable to us. Every step of the way, we will keep you updated on our progress. Active communication is what we do."
+    title: "Social Engineering Penetration Tests"
+    content: "Social engineering is a process based on human interaction where psychological manipulation is used to trick individuals into making security mistakes. Many high profile corporate cyber attacks in the last several years have utilized this vector."
   - icon: "las la-link"
     title: "Automation Reigns Supreme"
     content: "Wherever we can, we will automate manual, time-wasting processes. Allow your teams to focus on the real value-add instead of boring, repetitive drivel."
@@ -49,11 +49,12 @@ features:
   - icon: "las la-magnet"
     title: "Quality Service"
     content: "We don't beat around the bush-- our solutions cut right to the chase and strive for elegance and simplicity. Goodbye stacks of barely legible code, hello plain and simple solutions that actually work!"
+    
 
 
 # intro_video
 intro_video:   
-  enable: true
+  enable: false
   subtitle: "Short Intro Video"
   title: "Built exclusively for you"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
@@ -65,9 +66,9 @@ intro_video:
 how_it_works:   
   enable: true
   block:
-  - subtitle: "Tech Consultants Who Care"
-    title: "Working WITH You To Achieve Your Technology Goals"
-    description: "We collaborate and cooperate with you along every step of your journey with us to not only implement an exceptional solution, but to also take the time to train and communicate that solution. Who says tech pros can't talk?"
+  - subtitle: "Security Professionals With a Passion"
+    title: "Working With You To Achieve Your Security Goals"
+    description: "We collaborate and cooperate with you to determine the best security solutions for your organization, and to also take the time to train and communicate those solutions to technical teams and business leaders alike. Who says tech pros can't talk?"
     image: "images/features-01.png"
 
   - subtitle: "Professional Quality For A Reasonable Price"
@@ -78,7 +79,7 @@ how_it_works:
 
 # testimonials
 testimonials:   
-  enable: true
+  enable: false
   subtitle: "Our Testimonials"
   title: "Don't take our word for it"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
