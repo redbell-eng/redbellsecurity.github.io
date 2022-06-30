@@ -8,27 +8,30 @@ who_we_are:
   enable: true
   subtitle: "Who We Are"
   title: "Tech Consultants Who Care"
-  description: "We strive to build a holistic solution tailored to your business, not some one-and-done project that gets tossed over to you. We listen to your unique business story, work with you along every step of the way to determine the best options, and diligently apply our skills and expertise to make your choice a reality."
+  description: "Our web application security assessment will provide useful insights into the security posture of your organizations web applications. By following a assessment as a service model we are able to provide assessments on demand. Following the simple process of scoping your application and onboarding it onto our platform, a member of your team can request an assessment, and we will deliver the results within a few business days. Because of this quick turn around, your team can easily fit security assessments into your agile sprints and other business processes."
 
   image: "images/about/01.jpg"
 
 # what_we_do
 what_we_do:
   enable: true
-  subtitle: "Assessment Services"
+  subtitle: "Web Security Assessment Services"
   title: "What We Do"
   block:
-  - title: "Web Security Assessments"
-    content: "Our web application security assessment will provide useful insights into the security posture of your organizations web applications. By following a assessment as a service model we are able to provide assessments on demand. Following the simple process of scoping your application and onboarding it onto our platform, a member of your team can request an assessment, and we will deliver the results within 3 - 5 business days. Because of this quick turn around, your team can easily fit security assessments into your agile sprints and other business processes."
+  - title: "OWASP Top 10 Coverage"
+    content: "We provide complete test coverage of the OWASP top 10. The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications."
 
-  - title: "Cloud Security Review"
-    content: "Over the last decade I.T. infrastructure has rapidly shifted from on premises to cloud service providers. As the complexity of these cloud environments grows, the security risks facing the underlying organization expands proportionately. Our security experts can assist your organization in understanding how its cloud infrastructure fits within the modern security landscape. We produce actionable items so your cloud engineers and architects have a clear pathway to hardening your organizations infrastructure." 
+  - title: "Black Box Testing"
+    content: "Get validated results using our automated toolchain in order to reduce false positives. " 
     
-  - title: "OSINT Gathering"
-    content: "OSINT or open source intelligence, is the process of collecting information using publicly available sources. OSINT is a vital part of the modern hackers information gathering process. By using advanced OSINT gathering techniques, hackers may be able to find publicly available information which opens up attack vectors against your organization. Our team is capable of utilyzing the same OSINT gathering techniques which malicious hackers use. In doing so we can provide your organization with relavent insights into what information regarding your organization exists on the web, and how bad actors may be able to utilize that information to perform an attack."
+  - title: "Grey Box Testing"
+    content: "Grey box testing is where we test your applications with the user credentials you provide us, providing insights into the security of authenticated accounts."
     
-  - title: "Social Engineering Penetration Tests"
-    content: "Social engineering is a process based on human interaction where psychological manipulation is used to trick individuals into making security mistakes. The attacker may use email (phishing), voice (vishing), text, or even a face-to-face interaction in order to get an individual to disclose sensitive information or take a compromising action. Social engineering is a rapidly evolving and widely used attack vector which can be incredibly hard for an organization to address due to the human element of the attack. Red Bell Security's experts are capable of simulating a social engineering campaign on your organization so business leaders can understand how their organizations defenses stack up against this complex attack. We can also advise business leaders on how to develop a social engineering awareness program in order to continually mitigate this persistent threat which can be targeted against all levels of employees within the organization."
+  - title: "Hybrid Testing"
+    content: "By using a combination of the above methodologies. We are able to customize web security assessments to your organizations specific needs."
+
+  - title: "Web API Testing"
+    content: "Make sure your externally and internally facing endpoints are secure by testing your web services and APIs. We are capable of providing assessment services for both credentialed and uncredentialled web APIs."
 
 
 
@@ -61,7 +64,7 @@ brands_carousel:
 
 # our team
 our_team:
-  enable: true
+  enable: false
   subtitle: "Our members"
   title: "The People Behind"
   description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"
