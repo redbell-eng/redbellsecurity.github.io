@@ -1,5 +1,5 @@
 ---
-title: "Web Security Assessments"
+title: "Social Engineering Penetration Tests"
 layout: "about"
 draft: false
 
@@ -61,7 +61,7 @@ brands_carousel:
 
 # our team
 our_team:
-  enable: true
+  enable: false
   subtitle: "Our members"
   title: "The People Behind"
   description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"

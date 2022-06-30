@@ -20,6 +20,18 @@ hasChildren = true
   url = "web_security_assessments/"
   weight = 1
 
+  [[main]]
+  parent = "Services"
+  name = "Cloud Security Review"
+  url = "cloud-security-review/"
+  weight = 2
+
+  [[main]]
+  parent = "Services"
+  name = "Social Engineering"
+  url = "social-engineering-penetration-tests/"
+  weight = 2
+
 [[main]]
 name = "Blog"
 url = "blog/"
