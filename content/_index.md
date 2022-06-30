@@ -1,15 +1,15 @@
 ---
 # banner
 banner:
-  title: "Red Bell Software -- Sophisticated Solutions, Real Results"
+  title: "Red Bell Security -- Let us raise the alarm before the bad guys do"
   button: "Contact Us"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/banner-app.png"
 
-
+# enable brand carasoul when we have testimonials
 # brands
 brands_carousel:
-  enable: true
+  enable: false
   brand_images:
   - "images/brands/01-colored.png"
   - "images/brands/02-colored.png"

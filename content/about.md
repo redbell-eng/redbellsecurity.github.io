@@ -18,8 +18,8 @@ what_we_do:
   subtitle: "Assessment Services"
   title: "What We Do"
   block:
-  - title: "Web Penetration Tests"
-    content: "Our web application penetration tests will provide useful insights into the security posture of your organizations web applications. By following a pen-test as a service model we are able to provide tests on demand. Following the simple process of scoping your application and onboarding it onto our platform, a member of your team can request a test, and we will deliver the results within 3 - 5 business days. Because of this quick turn around, your team can easily fit penetration testing into your agile sprints and other business processes."
+  - title: "Web Security Assessments"
+    content: "Our web application security assessment will provide useful insights into the security posture of your organizations web applications. By following a assessment as a service model we are able to provide assessments on demand. Following the simple process of scoping your application and onboarding it onto our platform, a member of your team can request an assessment, and we will deliver the results within 3 - 5 business days. Because of this quick turn around, your team can easily fit security assessments into your agile sprints and other business processes."
 
   - title: "Cloud Security Review"
     content: "Over the last decade I.T. infrastructure has rapidly shifted from on premises to cloud service providers. As the complexity of these cloud environments grows, the security risks facing the underlying organization expands proportionately. Our security experts can assist your organization in understanding how its cloud infrastructure fits within the modern security landscape. We produce actionable items so your cloud engineers and architects have a clear pathway to hardening your organizations infrastructure." 
