@@ -10,9 +10,21 @@ url = "about/"
 weight = 2
 
 [[main]]
+weight = 2
+name = "Services"
+hasChildren = true
+
+  [[main]]
+  parent = "Services"
+  name = "Web Security Assessments"
+  url = "web_security_assessments/"
+  weight = 1
+
+[[main]]
 name = "Blog"
 url = "blog/"
 weight = 3
+
 
 [[main]]
 weight = 4

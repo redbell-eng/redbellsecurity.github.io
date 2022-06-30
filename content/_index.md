@@ -72,8 +72,8 @@ how_it_works:
     image: "images/features-01.png"
 
   - subtitle: "Professional Quality For A Reasonable Price"
-    title: "We Deliver Quality Solutions For A Price That Doesn't Stink"
-    description: "From our scoping meetings to our milestone-based project progression, we will ensure there are absolutely no unpleasant surprises. You'll know where you stand with us from the very beginning."
+    title: "We work with you to understand the services you need, so you don't pay for what you don't"
+    description: "We focus on understanding your organizations and teams unique goals and circumstances to facilitate a TODO"
     image: "images/features-02.png"
 
 

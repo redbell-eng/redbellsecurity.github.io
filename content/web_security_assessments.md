@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Web Security Assessments"
 layout: "about"
 draft: false
 
