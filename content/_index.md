@@ -4,7 +4,9 @@ banner:
   title: "Red Bell Security -- Let us raise the alarm before the bad guys do"
   button: "Contact Us"
   button_link: "https://gethugothemes.com/products/andromeda/"
+  #image: "images/redWhiteSplatter.jpg"
   image: "images/banner-app.png"
+  #image: "images/index_hero.png"
 
 # enable brand carasoul when we have testimonials
 # brands
@@ -40,15 +42,7 @@ features:
   - icon: "las la-tachometer-alt"
     title: "Social Engineering Penetration Tests"
     content: "Social engineering is a process based on human interaction where psychological manipulation is used to trick individuals into making security mistakes. Many high profile corporate cyber attacks in the last several years have utilized this vector."
-  - icon: "las la-link"
-    title: "Automation Reigns Supreme"
-    content: "Wherever we can, we will automate manual, time-wasting processes. Allow your teams to focus on the real value-add instead of boring, repetitive drivel."
-  - icon: "las la-lock"
-    title: "Client Service Commitment"
-    content: "We strive for excellent interactions and experiences with all of our clients. We will keep active lines of communication open with you when needed."
-  - icon: "las la-magnet"
-    title: "Quality Service"
-    content: "We don't beat around the bush-- our solutions cut right to the chase and strive for elegance and simplicity. Goodbye stacks of barely legible code, hello plain and simple solutions that actually work!"
+
     
 
 
@@ -69,7 +63,7 @@ how_it_works:
   - subtitle: "Security Professionals With a Passion"
     title: "Working With You To Achieve Your Security Goals"
     description: "We collaborate and cooperate with you to determine the best security solutions for your organization, and to also take the time to train and communicate those solutions to technical teams and business leaders alike. Who says tech pros can't talk?"
-    image: "images/features-01.png"
+    image: "images/workingWithYou.png"
 
   - subtitle: "Professional Quality For A Reasonable Price"
     title: "We work with you to understand the services you need, so you don't pay for what you don't"
