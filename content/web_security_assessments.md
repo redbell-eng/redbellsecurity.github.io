@@ -10,7 +10,7 @@ who_we_are:
   title: "Tech Consultants Who Care"
   description: "Our web application security assessment will provide useful insights into the security posture of your organizations web applications. By following a assessment as a service model we are able to provide assessments on demand. Following the simple process of scoping your application and onboarding it onto our platform, a member of your team can request an assessment, and we will deliver the results within a few business days. Because of this quick turn around, your team can easily fit security assessments into your agile sprints and other business processes."
 
-  image: "images/about/01.jpg"
+  image: "images/web-security-assessments/web-security.png"
 
 # what_we_do
 what_we_do:

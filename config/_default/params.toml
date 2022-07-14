@@ -65,10 +65,11 @@ button = "I Accept"
 # call-to-action
 [cta]
 enable = true
-title = "Get Andromeda-Premium Now"
+title = "Get in Touch"
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
-button = "Download The Theme"
-button_link = "https://gethugothemes.com/products/andromeda/"
+button = "Contact Us"
+#button_link = "https://gethugothemes.com/products/andromeda/"
+button_link = "contact/"
 
 ############################# social site ########################
 [[social]]

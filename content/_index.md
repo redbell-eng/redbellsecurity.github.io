@@ -65,10 +65,10 @@ how_it_works:
     description: "We collaborate and cooperate with you to determine the best security solutions for your organization, and to also take the time to train and communicate those solutions to technical teams and business leaders alike. Who says tech pros can't talk?"
     image: "images/workingWithYou.png"
 
-  - subtitle: "Professional Quality For A Reasonable Price"
-    title: "We work with you to understand the services you need, so you don't pay for what you don't"
-    description: "We focus on understanding your organizations and teams unique goals and circumstances to facilitate a TODO"
-    image: "images/features-02.png"
+  - subtitle: "Custom Solutions for A Reasonable Price"
+    title: "Attacks Are Unique, Solutions Need to Be As Well"
+    description: "Instead of pushing your organization towards a generic solution, we prefer putting in the extra time and effort to understand what makes your business unique so we can create a custom solution tailored towards the security risks facing it."
+    image: "images/custom-solutions.png"
 
 
 # testimonials
