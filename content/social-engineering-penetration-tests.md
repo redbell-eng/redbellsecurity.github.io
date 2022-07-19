@@ -15,8 +15,8 @@ who_we_are:
 # what_we_do
 what_we_do:
   enable: true
-  subtitle: "Assessment Services"
-  title: "What We Do"
+  subtitle: "What We Do"
+  title: "Social Engineering Services"
   block:
   - title: "Phishing"
     content: "Emails sent in mass targeting one or many organizations with the aim of getting some of the recipients to sacrifice sensitive information/download malware."

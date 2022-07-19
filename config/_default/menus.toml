@@ -4,10 +4,11 @@ name = "Home"
 url = ""
 weight = 1
 
-[[main]]
-name = "About"
-url = "about/"
-weight = 2
+# TODO fill out about page
+#[[main]]
+#name = "About"
+#url = "about/"
+#weight = 2
 
 [[main]]
 weight = 2
@@ -32,38 +33,38 @@ hasChildren = true
   url = "social-engineering-penetration-tests/"
   weight = 2
 
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 3
+#[[main]]
+#name = "Blog"
+#url = "blog/"
+#weight = 3
 
 
-[[main]]
-weight = 4
-name = "Pages"
-hasChildren = true
+#[[main]]
+#weight = 4
+#name = "Pages"
+#hasChildren = true
 
-  [[main]]
-  parent = "Pages"
-  name = "Blog Details"
-  url = "blog/post-1/"
-  weight = 1
+  #[[main]]
+  #parent = "Pages"
+  #name = "Blog Details"
+  #url = "blog/post-1/"
+  #weight = 1
 
-  [[main]]
-  parent = "Pages"
-  name = "Terms & Conditions"
-  url = "terms-and-conditions/"
-  weight = 7
+  #[[main]]
+  #parent = "Pages"
+  #name = "Terms & Conditions"
+  #url = "terms-and-conditions/"
+  #weight = 7
   
 [[main]]
 name = "Contact"
 url = "contact/"
 weight = 5
 
-[[main]]
-name = "Example"
-url = "example/"
-weight = 5
+#[[main]]
+#name = "Example"
+#url = "example/"
+#weight = 5
 
 
 # footer menu

@@ -15,8 +15,8 @@ who_we_are:
 # what_we_do
 what_we_do:
   enable: true
-  subtitle: "Web Security Assessment Services"
-  title: "What We Do"
+  subtitle: "What We Do"
+  title: "Web Security Services"
   block:
   - title: "OWASP Top 10 Coverage"
     content: "We provide complete test coverage of the OWASP top 10. The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications."

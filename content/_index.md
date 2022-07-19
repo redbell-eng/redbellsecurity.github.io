@@ -3,10 +3,9 @@
 banner:
   title: "Red Bell Security -- Let us raise the alarm before the bad guys do"
   button: "Contact Us"
-  button_link: "https://gethugothemes.com/products/andromeda/"
-  #image: "images/redWhiteSplatter.jpg"
-  image: "images/banner-app.png"
-  #image: "images/index_hero.png"
+  button_link: "contact/"
+  #image: "images/banner-app.png"
+  image: "images/security-hero.png"
 
 # enable brand carasoul when we have testimonials
 # brands
@@ -33,7 +32,7 @@ features:
   title: "Our services"
   description: "As our digital world grows in complexity, so do the threats facing us. Staying ahead of bad actors requires an intimate understanding of the tactics and techniques these individuals and groups use in order to plan and execute attacks against your information systems. Red Bell Security is an information security consulting firm which can assist your organization in coming to understand the threats which face it, and evolving your security program to defend against those threats. "
   features_blocks:
-  - icon: "las la-lock"
+  - icon: "la la-bell"
     title: "Web Security Assessments"
     content: "Our web application security assessment will provide useful insights into the security posture of your organizations web applications."
   - icon: "las la-magnet"

@@ -17,8 +17,8 @@ who_we_are:
 # what_we_do
 what_we_do:
   enable: true
-  subtitle: "Assessment Services"
-  title: "What We Do"
+  subtitle: "What We Do"
+  title: "Cloud Security Services"
   block:
   - title: "Cloud Architecture Review"
     content: "We review the architecture of your application from individual components to large-scale behavior in order to assess its current security posture. and determine where weaknesses may be present."
