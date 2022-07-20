@@ -6,8 +6,8 @@ draft: false
 # who_we_are
 who_we_are:
   enable: true
-  subtitle: "Who We Are"
-  title: "Tech Consultants Who Care"
+  subtitle: ""
+  title: "Harden Your Infrastructure"
   description: "Over the last decade I.T. infrastructure has rapidly shifted from on premises to cloud service providers. As the complexity of these cloud environments grows, the security risks facing the underlying organization expands proportionately. Our security experts can assist your organization in understanding how its cloud infrastructure fits within the modern security landscape. We produce actionable items so your cloud engineers and architects have a clear pathway to hardening your organizations infrastructure."
 
   #image: "images/about/01.jpg"
@@ -17,7 +17,7 @@ who_we_are:
 # what_we_do
 what_we_do:
   enable: true
-  subtitle: "What We Do"
+  subtitle: ""
   title: "Cloud Security Services"
   block:
   - title: "Cloud Architecture Review"

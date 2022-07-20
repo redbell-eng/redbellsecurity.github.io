@@ -32,13 +32,13 @@ features:
   title: "Our services"
   description: "As our digital world grows in complexity, so do the threats facing us. Staying ahead of bad actors requires an intimate understanding of the tactics and techniques these individuals and groups use in order to plan and execute attacks against your information systems. Red Bell Security is an information security consulting firm which can assist your organization in coming to understand the threats which face it, and evolving your security program to defend against those threats. "
   features_blocks:
-  - icon: "la la-bell"
+  - icon: "la la-wifi"
     title: "Web Security Assessments"
     content: "Our web application security assessment will provide useful insights into the security posture of your organizations web applications."
-  - icon: "las la-magnet"
+  - icon: "las la-cloud"
     title: "Cloud Security Review"
     content: "Understanding the security posture of your cloud infrastructure is fundamental to protecting the integrity of your organizations data and safety of your users."
-  - icon: "las la-tachometer-alt"
+  - icon: "las la-at"
     title: "Social Engineering Penetration Tests"
     content: "Social engineering is a process based on human interaction where psychological manipulation is used to trick individuals into making security mistakes. Many high profile corporate cyber attacks in the last several years have utilized this vector."
 
@@ -61,7 +61,7 @@ how_it_works:
   block:
   - subtitle: "Security Professionals With a Passion"
     title: "Working With You To Achieve Your Security Goals"
-    description: "We collaborate and cooperate with you to determine the best security solutions for your organization, and to also take the time to train and communicate those solutions to technical teams and business leaders alike. Who says tech pros can't talk?"
+    description: "We collaborate and cooperate with you to determine the best security solutions for your organization. Additionally, we take the time to train and communicate those solutions to technical teams and business leaders alike. Who says tech pros can't talk?"
     image: "images/workingWithYou.png"
 
   - subtitle: "Custom Solutions for A Reasonable Price"

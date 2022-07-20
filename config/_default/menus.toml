@@ -69,21 +69,17 @@ weight = 5
 
 # footer menu
 [[footer]]
-name = "About"
-url = "about/"
+name = "Cloud Security Review"
+url = "cloud-security-review/"
 weight = 1
 
 [[footer]]
-name = "Blog"
-url = "blog/"
+name = "Web Security Assessments"
+url = "web_security_assessments/"
 weight = 2
 
 [[footer]]
-name = "Blog Details"
-url = "blog/post-1/"
+name = "Social Engineering Services"
+url = "social-engineering-penetration-tests/"
 weight = 3
 
-[[footer]]
-name = "Terms & Conditions"
-url = "terms-and-conditions/"
-weight = 4

@@ -56,62 +56,6 @@
       {{end}}
     </div>
 
-    <div class="section pb-0">
-      <div class="row justify-content-center">
-        <div class="col-12">
-          <div class="section-title text-center" data-aos="fade-up">
-            <p class="text-uppercase">Contact us</p>
-            <h2 class="title">Get In Touch</h2>
-          </div>
-        </div>
 
-        {{with site.Params.contact_info.phone}}
-        <div class="col-xl-3 col-lg-4 col-md-6 contact-widget" data-aos="fade-up">
-          <div class="block text-center">
-            <h3 class="mb-4">Phone</h3>
-            <ul class="list-unstyled">
-              {{range .}}
-              {{if .}}
-              <li><a href="tel:{{.}}"><i class="las la-phone"></i>{{.}}</a></li>
-              {{end}}
-              {{end}}
-            </ul>
-          </div>
-        </div>
-        {{end}}
-
-        {{with site.Params.contact_info.email}}
-        <div class="col-xl-3 col-lg-4 col-md-6 contact-widget" data-aos="fade-up" data-aos-delay="100">
-          <div class="block text-center">
-            <h3 class="mb-4">Email Address</h3>
-            <ul class="list-unstyled">
-              {{range .}}
-              {{if .}}
-              <li><a href="mailto:{{.}}"><i class="las la-envelope-open-text"></i>{{.}}</a></li>
-              {{end}}
-              {{end}}
-            </ul>
-          </div>
-        </div>
-        {{end}}
-
-        {{with site.Params.social}}
-        <div class="col-xl-3 col-lg-4 col-md-12 contact-widget" data-aos="fade-up" data-aos-delay="200">
-          <div class="block text-center">
-            <h3 class="mb-4">Social Media</h3>
-            <ul class="list-unstyled">
-              {{range .}}
-              {{if .}}
-              <li><a href="{{.link}}"><i class="{{.icon}}"></i>{{.title}}</a></li>
-              {{end}}
-              {{end}}
-            </ul>
-          </div>
-        </div>
-        {{end}}
-      </div>
-    </div>
-  </div>
-</section>
 
 {{ end }}

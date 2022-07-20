@@ -6,8 +6,8 @@ draft: false
 # who_we_are
 who_we_are:
   enable: true
-  subtitle: "Who We Are"
-  title: "Tech Consultants Who Care"
+  subtitle: ""
+  title: "Keep Your Web Applications Safe"
   description: "Our web application security assessment will provide useful insights into the security posture of your organizations web applications. By following a assessment as a service model we are able to provide assessments on demand. Following the simple process of scoping your application and onboarding it onto our platform, a member of your team can request an assessment, and we will deliver the results within a few business days. Because of this quick turn around, your team can easily fit security assessments into your agile sprints and other business processes."
 
   image: "images/web-security-assessments/web-security.png"
@@ -15,7 +15,7 @@ who_we_are:
 # what_we_do
 what_we_do:
   enable: true
-  subtitle: "What We Do"
+  subtitle: ""
   title: "Web Security Services"
   block:
   - title: "OWASP Top 10 Coverage"
