@@ -10,11 +10,11 @@ who_we_are:
   title: "Tech Consultants Who Care"
   description: "We strive to build a holistic solution tailored to your business, not some one-and-done project that gets tossed over to you. We listen to your unique business story, work with you along every step of the way to determine the best options, and diligently apply our skills and expertise to make your choice a reality."
 
-  image: "images/about/01.jpg"
+  image: "images/about/who-we-are-rbs.png"
 
 # what_we_do
 what_we_do:
-  enable: true
+  enable: false
   subtitle: "Assessment Services"
   title: "What We Do"
   block:
@@ -39,11 +39,11 @@ our_mission:
   title: "Main Vision And Mission Of Our Company"
   description: "We were freelance designers and developers, constantly finding ourselve deep vague feedback. leaving a notes from the sticky note piece ."
 
-  image: "images/about/02.jpg"
+  image: "images/about/mission-rbs.png"
 
 # about_video
 about_video:
-  enable: true
+  enable: false
   subtitle: "A Short Video"
   title: "You Take Care Of The Payments, We Take Care Of The Rest."
   description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistcy throughout the."
@@ -62,19 +62,17 @@ brands_carousel:
 # our team
 our_team:
   enable: true
-  subtitle: "Our members"
-  title: "The People Behind"
-  description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"
+  subtitle: ""
+  title: "Leadership"
+  description: "We are security professionals with a passion, <br> working with you to create the best solution for your organization"
   team:
-  - name: "Valentin Staykov"
-    image: "images/about/team/01.jpg"
-    designation: "Operations"
-  - name: "Bukiakta Bansalo"
+  - name: "Noah Borkowski"
+    image: "images/about/mission-rbs.png"
+    designation: "Noah has extensive experience in the security industry. Coming from a background in software development and cloud architecture, he has a proven track record of using his broad cross-domain knowledge to develop strong security solutions. Noah's first professional work in the security industry was focused on hardening high value e-commerce web applications, underlying infrastructure, and associated data. Since then, he has served clients across several major industries with a focus on realistic adversarial threat emulation."
+  - name: "Max Morris"
     image: "images/about/team/02.jpg"
-    designation: "Product"
-  - name: "Ortrin Okaster"
-    image: "images/about/team/03.jpg"
-    designation: "Engineering"
+    designation: "Noah has extensive experience in the security industry. Coming from a background in software development and cloud architecture, he has a proven track record of using his broad cross-domain knowledge to develop strong security solutions. Noah's first professional work in the security industry was focused on hardening high value e-commerce web applications, underlying infrastructure, and associated data. Since then, he has served clients across several major industries with a focus on realistic adversarial threat emulation."
+
 
 
 # our office
